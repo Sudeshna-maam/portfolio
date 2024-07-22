@@ -1,5 +1,5 @@
-import Navber from "@/Components/Navber";
-import Nav from "@/Components/Navber";
+import Navber from "@/components/Navber";
+import Nav from "@/components/Navber";
 import {
   Card,
   CardHeader,
