@@ -30,9 +30,11 @@ const Home = () => {
             </p>
             <div className="action__btns">
               {/* <button className="hire__me">My Document</button> */}
-              <button className="portfolio  dark:text-white">
-                Download Resume
-              </button>
+              <a href="myResume.pdf">
+                <button className="portfolio  dark:text-white">
+                  Download Resume
+                </button>
+              </a>
             </div>
 
             <div className="flex p-8 gap-6  dark:text-white">
